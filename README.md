@@ -12,3 +12,8 @@ There are some courses
 - [ ] CSCI2100
 - [ ] CSCI3250
 - [x] CSCI3251
+
+Tools
+
+- [x] Java
+- [x] C
