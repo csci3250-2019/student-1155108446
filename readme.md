@@ -1,10 +1,16 @@
 # student-1155108446
-Luo Zhiji 
 
-I am a CSE student
+# Project 2
 
-- [x] Java
-- [x] C
+# student-1155108446
+
+CUHK, Computer Science, *Year 2* or _Shaw College_.
+
+_*Luo Zhiji Jacky*_
+
+I am learning GitHub but it is *HARD* to understander and use.
+
+
 
 There are some courses 
 
@@ -17,3 +23,18 @@ Tools
 
 - [x] Java
 - [x] C
+
+Programming languages
+
+|  Programming languages |  How I familiar about it |
+|---|---|
+|  C | 70%  |
+|  C++ | 30%  |
+|  Java | 70%  |
+|  Python | 10%  |
+
+###There are some technologies that I ready to learn or I am learning now.
+
+* Unity
+- Github
++ Flutter
